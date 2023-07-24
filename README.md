@@ -1,2 +1,2 @@
 # alx-backend-javascript
-back end specialization
+back end specialization.
